@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/personalised_web_app/static/js/main.740c37eb.js",
-    "index.html": "/github.io/personalised_web_app/index.html",
-    "main.740c37eb.js.map": "/github.io/personalised_web_app/static/js/main.740c37eb.js.map"
+    "main.js": "/personalised_web_app/static/js/main.740c37eb.js",
+    "index.html": "/personalised_web_app/index.html",
+    "main.740c37eb.js.map": "/personalised_web_app/static/js/main.740c37eb.js.map"
   },
   "entrypoints": [
     "static/js/main.740c37eb.js"
