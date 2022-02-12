@@ -1,0 +1,67 @@
+:root {
+    /* BACKGROUND */
+   --sunset-pic: url(https://rnewhens.sirv.com/sunset-pic.jpg);
+
+    
+    /* COLORS */
+    --blood: #8a0303;
+    --slime: #228B22;
+    --gloom: #2B363B;
+    --candy: #ee698e;
+    --purple: #7B1E7A;
+    --blue: #2176AE;
+    --olive: #A6C48A;    
+    --royal: #0A1045;
+    --lilac: #B8AED6;
+    --snow: #f4f9e9;
+    
+    /* FONTS */
+    --scary-font: 'Metal Mania';
+    --typewriter-font: 'Inconsolata';
+    --funny-font: 'Balsamiq Sans';
+    --curly-font: 'Pacifico';
+    --old-style-font: 'Cinzel';
+    --simple-font: 'Noto Sans HK';
+    --funky-font: 'MuseoModerno';
+    --sweet-font: 'Lobster';
+}
+
+
+body {
+
+    /*
+    Background: Option to change the background to one you like
+    */
+    
+    --background-image: var(--sunset-pic);
+    
+    /*
+    Main color: Option to change the main color to one you like!
+    */
+    --main-color: var(--snow);
+    
+     /* 
+    Font family: change the font to one you think is cool
+    */
+    font-family: var(--sweet-font);
+}
+
+
+.grid {
+    /* 
+    MEANS TO ADJUST COLUMN NUMBER: adjust how many columns you'd like to have
+    */
+   column-count: 3;
+   column-gap: 10px;
+}
+
+
+.img {
+    /* 
+    Added in border image. Using the background image as a border image around pictures.
+    It is like adding a material to a game object.
+    */
+    border-image: var(--sunset-pic) 100
+
+}
+
