@@ -43,6 +43,11 @@ The version of the react build should correspond to the versions specified in th
 
 Learnt how to display name of web app in home page.
 
+Uploaded image to a CDN (Sirv) to host images and then use the link as a css variable to reference that variable as a way to change images of backgrounds and even borders.
+
+The same background image was use for the border image. I choose this to have a consistent them with the web app. Using images for borders is similar to applying materials to game assets or graphical objects.
+
+
 
 
 
