@@ -19,7 +19,7 @@ $ yarn watch # npm run watch
 
 Change the version values of react-dom and react within the package.json config file. For this instance the version used is 16.13.1 respectively.
 
-Thereafter, delete node_modules and package-lock.json then run npm install
+Thereafter, delete node_modules and package-lock.json (not package.json) then run npm install
 
 ## React Website
 
