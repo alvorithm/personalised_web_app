@@ -37,7 +37,7 @@ Learnt how to adapt a react app to make use of API infrastructure to pull images
 
 Learnt correct way to structure files across react directorires. It is good practice to keep the style and basic css files within the same directory as the index.html file. This simplifies the refrencing and linking of css files within index.html
 
-I learnt the difference bewteen a website and web app.
+I learnt the difference between a website and web app.
 
 The version of the react build should correspond to the versions specified in the package.json config file for react and reatc dom. Even though react generally is backward compatible - however, some web applications are finicky when it comes to dependencies.
 
