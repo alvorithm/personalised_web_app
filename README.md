@@ -1,4 +1,4 @@
-PERSONALISED WEB APP
+PERSONALISED WEB APP: Linklink to web app point_right https://alvorithm.github.io/personalised_web_app/
 
 Quick start:
 
