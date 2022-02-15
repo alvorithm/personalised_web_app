@@ -26,7 +26,7 @@ Thereafter, delete node_modules and package-lock.json (not package.json) then ru
 
 ## React Website
 
-	This is a web app adpated using the react library.
+	This is a web app adapted using the react library.
 
 	The react app uses a query hook to make an API call to the unsplash website to render javascript related images in the web page.
 
