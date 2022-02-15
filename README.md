@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/49029145/154022686-3400ef8a-0b51-4ae6-9635-79460daae7ed.png)
+
+
 PERSONALISED WEB APP: Link:link: to web app :point_right: https://alvorithm.github.io/personalised_web_app/
 
 Quick start:
