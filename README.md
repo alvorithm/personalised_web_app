@@ -38,7 +38,7 @@ Thereafter, delete node_modules and package-lock.json (not package.json) then ru
 
 Learnt how to adapt a react app to make use of API infrastructure to pull images from another web application using a query hook.
 
-Learnt correct way to structure files across react directorires. It is good practice to keep the style and basic css files within the same directory as the index.html file. This simplifies the refrencing and linking of css files within index.html
+Learnt correct way to structure files across react directorires. It is good practice to keep the style and basic css files within the same directory as the index.html file. This simplifies the referencing and linking of css files within index.html
 
 I learnt the difference between a website and web app.
 
